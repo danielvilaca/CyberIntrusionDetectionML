@@ -1,5 +1,5 @@
 # <h1 align="center">Cybersecurity Intrusion Detection using Machine Learning</h1>
-<h2 align="center">Academic Project using Decision Trees, Random Forest, K-Means and Apriori Algorithms</h2> 
+<h2 align="center">Academic PoC using Decision Trees, Random Forest, K-Means and Apriori Algorithms</h2> 
 
 <br>
 
