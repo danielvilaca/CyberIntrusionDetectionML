@@ -7,7 +7,7 @@
 
 <br>
 
-The `CyberIntrusionDetectionML` repository, is an Academic PoC, that aims to build and evaluate `Machine-Learning` Models that can automatically determine whether a network event represents a cyber attack or normal behavior.
+The `CyberIntrusionDetectionML` repository, is an Academic PoC, that aims to build, evaluate and optimize `Machine-Learning` Models that can automatically determine whether a network event represents a cyber attack or normal behavior.
 The entire project revolves around a `binary classification target` variable:
 > `attack_detected = 0` → No attack (Normal traffic)
 >
